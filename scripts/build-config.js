@@ -18,6 +18,7 @@ module.exports = {
     'effect-cube',
     'effect-flip',
     'effect-coverflow',
+    'effect-stack',
     'thumbs',
   ],
   target: 'universal',
